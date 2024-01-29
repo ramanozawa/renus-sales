@@ -1,4 +1,5 @@
-[
+{
+    "customers" :[
     {
         "id" : 1,
         "name" : "Dimas Anton",
@@ -13,4 +14,5 @@
         "address" : "Bali",
         "phone" : "012345"
     }
-]
+    ]
+}
