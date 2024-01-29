@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "name" : "Dimas Anton",
+        "company" : "Teknik Elektro ITS",
+        "address" : "Kampus ITS Surabaya Sukolilo",
+        "phone" : "012345"
+    },
+    {
+        "id" : 2,
+        "name" : "Jean Noel",
+        "company" : "PT Ajna Pantai Indonesia",
+        "address" : "Bali",
+        "phone" : "012345"
+    }
+]
