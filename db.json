@@ -21,5 +21,23 @@
             "address" : "USA",
             "phone" : "+61 012345"
         }
+    ],
+    "quotations" :  [
+        {
+            "id" : 1,
+            "name" : "PLTS Hybrid 50kW",
+            "statusId" : 1,
+            "customerId" : 1,
+            "ammount" : 25000000,
+            "createdDate": "2024-01-05 00:00:00"
+        },
+        {
+            "id" : 2,
+            "name" : "PLTS Hybrid 10kW",
+            "statusId" : 2,
+            "customerId" : 2,
+            "ammount" : 10000000,
+            "createdDate": "2024-01-15 00:00:00"
+        }
     ]
 }
