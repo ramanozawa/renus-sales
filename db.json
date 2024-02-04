@@ -22,7 +22,7 @@
             "phone" : "+61 012345"
         }
     ],
-    "quotation" :  [
+    "quotations" :  [
         {
             "id" : 1,
             "name" : "PLTS Hybrid 50kW",
